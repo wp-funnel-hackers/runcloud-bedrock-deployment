@@ -21,15 +21,15 @@ Then it will perform the following.
   - Set DB Name, User, Password
   - Set WP_ENV
   - Set WP_HOME
- - Install WP Core via wp-cli to setup the site
+- Install WP Core via wp-cli to setup the site
   - URL
   - Title
   - Username for login
   - User password
   - Admin Email
- - Install plugins via composer
- - Activate plugins
- - Updates the public path for the Bedrock install `/bedrock/web'
- - Setup SSL with Lets Ecrypt
+- Install plugins via composer
+- Activate plugins
+- Updates the public path for the Bedrock install `/bedrock/web'
+- Setup SSL with Lets Ecrypt
 
 
